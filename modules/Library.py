@@ -8,6 +8,7 @@ class Library:
     
     def add_book(self, book):
         #TODO tambahkan buku ke array self.books
+        self.books.append(book)
         print(f"Buku {book.title} berhasil ditambahkan.")
     
     def remove_book(self, book):
