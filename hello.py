@@ -4,3 +4,5 @@ print("Prodi: Teknologi Rekayasa Otomasi")
 print("Kampus: Politeknik Negeri Madura")
 print("Nagara: Indonesia")
 print("Nagara: Malaysia")
+
+print("Alamat: Jl. Raya Panglegur No. 1, Sampang, Madura")
