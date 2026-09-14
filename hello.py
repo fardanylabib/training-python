@@ -6,3 +6,5 @@ print("Nagara: Indonesia")
 print("Nagara: Malaysia")
 
 print("Alamat: Jl. Raya Panglegur No. 1, Sampang, Madura")
+
+print("Saya sekarang ada di POLTERA")
