@@ -8,3 +8,6 @@ print("Nagara: Malaysia")
 print("Alamat: Jl. Raya Panglegur No. 1, Sampang, Madura")
 
 print("Saya sekarang ada di POLTERA")
+
+print("Kelompok 3:")
+print("1. Nisa \n 2. Amri")
