@@ -1,1 +1,1 @@
-Ceritakan tentang matakuliah ini
+Nama saya adalah Amin Qutby, saya kuliah di Prodi Teknologi Rekayasa Otomasi POLTERA
